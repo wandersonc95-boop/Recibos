@@ -239,9 +239,6 @@ def init_db_command():
 with app.app_context():
     db.create_all()
 
-with app.app_context():
-    db.create_all()
-
 if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 5000))
