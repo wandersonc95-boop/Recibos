@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nome": "CAPEFIMA LDA",
+      "nif": "514789875",
+      "morada": "",
+      "ultimo_link": "https://irs.portaldasfinancas.gov.pt/recibos/portal/consultar/detalheV2/253136229/0/34"
+    },
+    {
+      "nome": "JULIEN & JADE MANAGEMENT LDA",
+      "nif": "516103245",
+      "morada": "",
+      "ultimo_link": "https://irs.portaldasfinancas.gov.pt/recibos/portal/consultar/detalheV2/253136229/0/32"
+    },
+    {
+      "nome": "SIMPLESMENTE GRACIOSO LDA",
+      "nif": "518728749",
+      "morada": "",
+      "ultimo_link": "https://irs.portaldasfinancas.gov.pt/recibos/portal/consultar/detalheV2/253136229/0/27"
+    },
+    {
+      "nome": "MARINA LUZIA MONTENOR",
+      "nif": "288216431",
+      "morada": "",
+      "ultimo_link": "https://irs.portaldasfinancas.gov.pt/recibos/portal/consultar/detalheV2/253136229/0/12"
+    }
+  ],
+  "historico": [
+    {
+      "data": "24/04/2026 11:23",
+      "cliente_nome": "Wanderson Santos Costa",
+      "nif": "258167505",
+      "total": "168.00",
+      "resumo": "Cliente: Wanderson Santos Costa\nNIF: 258167505\n\nServiço: LIMPEZAS\nReferência: OUT - limpezas\nQuantidade: 14 h - Hora\nPreço unitário: 12.00 €\nIVA: 0%\nMotivo/Notas: Outras isenções\n\nTotal a pagar: 168.00 €"
+    },
+    {
+      "data": "24/04/2026 11:40",
+      "cliente_nome": "MARINA LUZIA MONTENOR",
+      "nif": "288216431",
+      "total": "200.00",
+      "resumo": "Cliente: MARINA LUZIA MONTENOR\nNIF: 288216431\n\nServiço: LIMPEZAS\nReferência: OUT - limpezas\nQuantidade: 20 mês\nPreço unitário: 10.00 €\nIVA: 0%\nMotivo/Notas: Outras isenções\n\nTotal a pagar: 200.00 €"
+    }
+  ]
+}
